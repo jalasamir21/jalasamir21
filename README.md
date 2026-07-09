@@ -12,11 +12,11 @@
 
 AI Engineering student passionate about Machine Learning, Generative AI, AI Automation and Agentic AI. Building intelligent applications with Python, LLMs, RAG, Deep Learning, and Computer Vision.
 
-🔭 &nbsp;I'm currently working on **Agentic AI applications and LLM-powered automation**  
-🌱 &nbsp;I'm currently learning **LangGraph • MCP • AI Agents • AI Automation • Fine-tuning LLMs • Advanced RAG**  
-👯 &nbsp;I'm looking to collaborate on **Open-source AI, AI Automation, Machine Learning, and Generative AI projects**  
-🤔 &nbsp;I'm looking for help with **AI Agents, Multi-Agent Systems, AI Automation, LLM Deployment, and MLOps**  
-💬 &nbsp;Ask me about **Python • Machine Learning • Deep Learning • LLMs • RAG • AI Automation • Computer Vision**
+ &nbsp;I'm currently working on **Agentic AI applications and LLM-powered automation**  
+ &nbsp;I'm currently learning **LangGraph • MCP • AI Agents • AI Automation • Fine-tuning LLMs • Advanced RAG**  
+ &nbsp;I'm looking to collaborate on **Open-source AI, AI Automation, Machine Learning, and Generative AI projects**  
+ &nbsp;I'm looking for help with **AI Agents, Multi-Agent Systems, AI Automation, LLM Deployment, and MLOps**  
+ &nbsp;Ask me about **Python • Machine Learning • Deep Learning • LLMs • RAG • AI Automation • Computer Vision**
 
 ### 🛠️ Tech Stack
 
