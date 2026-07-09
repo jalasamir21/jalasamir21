@@ -8,15 +8,28 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI;Building%20intelligent%20AI%20systems%20with%20Python%2C%20LLMs%2C%20RAG%2C%20LangGraph%2C%20and%20Computer%20Vision." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-AI Engineering student passionate about Machine Learning, Generative AI, AI Automation and Agentic AI. Building intelligent applications with Python, LLMs, RAG, Deep Learning, and Computer Vision.
+🎓 AI Engineering student at **Cairo University** passionate about building intelligent systems that solve real-world problems.
 
- &nbsp;I'm currently working on **Agentic AI applications and LLM-powered automation**  
- &nbsp;I'm currently learning **LangGraph • MCP • AI Agents • AI Automation • Fine-tuning LLMs • Advanced RAG**  
- &nbsp;I'm looking to collaborate on **Open-source AI, AI Automation, Machine Learning, and Generative AI projects**  
- &nbsp;I'm looking for help with **AI Agents, Multi-Agent Systems, AI Automation, LLM Deployment, and MLOps**  
- &nbsp;Ask me about **Python • Machine Learning • Deep Learning • LLMs • RAG • AI Automation • Computer Vision**
+💡 My interests include:
+- 🤖 Generative AI & Agentic AI
+- 🧠 Machine Learning & Deep Learning
+- ⚡ AI Automation
+- 📄 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
+
+🔭 **Currently Building**
+> Agentic AI applications, AI automation workflows, and LLM-powered solutions.
+
+🌱 **Currently Learning**
+> LangGraph • MCP • Multi-Agent Systems • Fine-tuning LLMs • Advanced RAG • MLOps
+
+🤝 **Open to Collaborate**
+> Open-source AI projects, AI automation, and real-world LLM applications.
+
+💬 **Ask me about**
+> Python • Machine Learning • Deep Learning • LLMs • RAG • AI Agents • Computer Vision
 
 ### 🛠️ Tech Stack
 
