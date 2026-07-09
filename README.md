@@ -71,4 +71,3 @@ AI Engineering student passionate about Machine Learning, Generative AI, AI Auto
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/jalasamir21">jalasamir21</a></i></p>
