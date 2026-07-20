@@ -9,6 +9,9 @@
 </p>
 
 ## 🚀 About Me
+<img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+<div align="left">
 
 🎓 AI Engineering student at **Cairo University** passionate about building intelligent systems that solve real-world problems.
 
@@ -18,6 +21,7 @@
 - ⚡ AI Automation
 - 📄 Retrieval-Augmented Generation (RAG)
 - 👁️ Computer Vision
+</div>
 
 🔭 **Currently Building**
 > Agentic AI applications, AI automation workflows, and LLM-powered solutions.
