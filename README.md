@@ -15,23 +15,21 @@
 🎓 AI Engineering student at **Cairo University** passionate about building intelligent systems that solve real-world problems.
 
 
-💡 My interests include:
-<div>
-  
-  <img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-  
-  
-  <div align="left" height="175">
-  
-  - 🤖 Generative AI & Agentic AI
-  - 🧠 Machine Learning & Deep Learning
-  - ⚡ AI Automation
-  - 📄 Retrieval-Augmented Generation (RAG)
-  - 👁️ Computer Vision
-    
-  </div>
+💡 My interests include:  
+<img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+
+<div align="left" height="175">
+
+- 🤖 Generative AI & Agentic AI
+- 🧠 Machine Learning & Deep Learning
+- ⚡ AI Automation
+- 📄 Retrieval-Augmented Generation (RAG)
+- 👁️ Computer Vision
   
 </div>
+  
+
 
 
 
