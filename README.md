@@ -1,5 +1,6 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
 <br><br>
+
 <p align="center">
   <a href="https://github.com/jalasamir21">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=a855f7&fontSize=54&height=90&width=570&text=Hello!%20I'm%20Jala" alt="Hello! I&#39;m Jala" />
