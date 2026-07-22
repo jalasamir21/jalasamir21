@@ -7,7 +7,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI;Building%20intelligent%20AI%20systems%20with%20Python%2C%20LLMs%2C%20RAG%2C%20LangGraph%2C%20and%20Computer%20Vision." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=AI%20Engineer%20%7C%20Machine%20Learning%20%7C%20Generative%20AI%20%7C%20Agentic%20AI;Building%20intelligent%20AI%20systems." alt="Typing headlines" />
 </p>
 
 ## 🚀 About Me
