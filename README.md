@@ -115,7 +115,7 @@
 </p>
 ### 📈 My Contribution Graph
 
-![git-invaders](https://raw.githubusercontent.com/jalasamir21/jalasamir21/main/assets/git-invaders.gif)
+![git-invaders](https://raw.githubusercontent.com/jalasamir21/jalasamir21/output/git-invader-multi-dark.svg)
 
 ![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
 
