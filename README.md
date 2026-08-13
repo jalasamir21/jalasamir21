@@ -113,10 +113,10 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jalasamir21&show_icons=true&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jalasamir21&layout=compact&theme=tokyonight&title_color=a855f7&icon_color=a855f7&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
-### 📈 My Contribution Graph
+
 
 ![git-invaders](https://raw.githubusercontent.com/jalasamir21/jalasamir21/output/git-invader-multi-dark.svg)
 
-![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
+
 
 ---
