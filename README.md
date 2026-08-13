@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1200&color=00D9FF&background=0D022100&center=true&vCenter=true&width=900&height=80&lines=AI+ENGINEER+%7C+MACHINE+LEARNING+%7C+GENERATIVE+AI;AGENTIC+AI+%7C+RAG+%7C+AI+AUTOMATION;PRESS+START+TO+CONTINUE..." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=12&duration=3000&pause=1200&color=00D9FF&background=0D022100&center=true&vCenter=true&width=900&height=80&lines=AI+ENGINEERING+%7C+MACHINE+LEARNING+%7C+GENERATIVE+AI;AGENTIC+AI+%7C+RAG+%7C+AI+AUTOMATION;PRESS+START+TO+CONTINUE..." alt="Typing headlines" />
 </p>
 
 <br>
