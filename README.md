@@ -221,6 +221,3 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=11&pause=1200&color=00d9ff&background=0D022100&center=true&vCenter=true&width=760&height=40&lines=THANKS+FOR+PLAYING%21;PRESS+START+TO+CONTINUE..." alt="Thanks for playing" />
 </p>
 
-<p align="center">
-  <sub>🎮 GAME OVER? NOPE. PRESS START TO CONTINUE. 🎮</sub>
-</p>
