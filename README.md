@@ -41,12 +41,11 @@
   <code>╚══════════════════════════════════════╝</code>
 </p>
 
-
-🎯 SKILL TREE
-
 <p align="center">
   <img width="200" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Pacman" />
 </p>
+
+🎯 SKILL TREE
 
 <p>
   <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┌── 🤖 Generative AI & Agentic AI</code><br>
