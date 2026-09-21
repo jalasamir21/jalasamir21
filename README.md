@@ -190,14 +190,14 @@
 
 <!-- ========================= HIGH SCORES ====================== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=17&pause=1000&color=ff2fd0&background=0D022100&center=true&vCenter=true&width=650&height=45&lines=%E2%96%93%E2%96%92%E2%96%91+HIGH+SCORES+%E2%96%91%E2%96%92%E2%96%93" alt="High Scores" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jalasamir21&show_icons=true&theme=tokyonight&title_color=ff2fd0&icon_color=00d9ff&text_color=e5e5e5&bg_color=0d0221&border_color=ff2fd0&hide_border=false&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jalasamir21&layout=compact&theme=tokyonight&title_color=ff2fd0&icon_color=00d9ff&text_color=e5e5e5&bg_color=0d0221&border_color=ff2fd0&hide_border=false&langs_count=8" alt="Top Languages" />
-</p>
+</p> -->
 
 <!-- ========================= GIT INVADERS ===================== -->
 
